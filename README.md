@@ -1,6 +1,14 @@
+![Bixi png](https://github.com/oskaencs/montreal_bike_rides/assets/92112235/26ed0424-c50a-425c-a8dd-4c16b2f10414)
+
+
 # Montreal Bike Rides
 
 This project aims to create and engineer a usable data set for data visualization purposes, combining historical climate data and Bixi bike ride usage data from the city of Montreal for the year 2021. The final data set will include weather information and ride counts for each date in 2021.
+
+You can view the Montreal Bike Rides Visualization by clicking here [Montreal Bike Rides Visualization](https://public.tableau.com/views/MontrealBikeRidesDashboard/BikesDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+This visualization provides insights into bike rides in Montreal, presenting data in an interactive and informative dashboard. Explore the trends, patterns, and key metrics related to bike rides in this captivating Tableau visualization.
 
 ## Table of Contents
 
